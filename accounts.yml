@@ -37,4 +37,4 @@ accounts:
   message: Hello World I am Here
   contactDetails:
     name: Richard
-    email: {cipher}44e6825d61226828629809f2d3ca6ab35e62b1f098bcd3b812ab02380e8cfccc78daf9c30ffb0900aa5d8b08ca3c18c4
+    email: "{cipher}44e6825d61226828629809f2d3ca6ab35e62b1f098bcd3b812ab02380e8cfccc78daf9c30ffb0900aa5d8b08ca3c18c4"
