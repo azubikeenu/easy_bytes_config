@@ -1,5 +1,5 @@
 accounts:
-  message: Hello World I am Here in prod
+  message: Hello World I am Here in production
   contactDetails:
-    name: Richard From Prod
-    email: enuazubike88@gmail.com in Prod
+    name: Richard From production
+    email: enuazubike88@gmail.com in production
